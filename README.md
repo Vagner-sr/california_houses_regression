@@ -31,10 +31,10 @@ After training various regression models, the model that performed best was the 
 
 ### Model Results:
 
-- **Mean Absolute Error (MAE):** [31482.04]
-- **Mean Absolute Percentage Error (MAPE):** [0.18]
-- **Root Mean Squared Error (RMSE):** [48427.80]
-- **Model Score:** [0.823070]
+- **Mean Absolute Error (MAE):** [30172.15]
+- **Mean Absolute Percentage Error (MAPE):** [0.17]
+- **Root Mean Squared Error (RMSE):** [46466.93]
+- **Model Score:** [0.841416]
 
 These results indicate that the Random Forest model is capable of making accurate predictions about house prices in California, with a good score and low errors.
 
